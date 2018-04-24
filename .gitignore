@@ -42,3 +42,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+#所有node_modules
+**/node_modules
